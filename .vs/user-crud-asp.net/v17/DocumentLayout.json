@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\user-crud-asp.net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF1B49B6-A90A-442C-A5C6-41943D500B18}|user-crud-asp.net\\user-crud-asp.net.csproj|c:\\users\\deivy\\onedrive\\documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF1B49B6-A90A-442C-A5C6-41943D500B18}|user-crud-asp.net\\user-crud-asp.net.csproj|solutionrelative:user-crud-asp.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF1B49B6-A90A-442C-A5C6-41943D500B18}|user-crud-asp.net\\user-crud-asp.net.csproj|c:\\users\\deivy\\onedrive\\documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF1B49B6-A90A-442C-A5C6-41943D500B18}|user-crud-asp.net\\user-crud-asp.net.csproj|solutionrelative:user-crud-asp.net\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1B49B6-A90A-442C-A5C6-41943D500B18}|user-crud-asp.net\\user-crud-asp.net.csproj|c:\\users\\deivy\\onedrive\\documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF1B49B6-A90A-442C-A5C6-41943D500B18}|user-crud-asp.net\\user-crud-asp.net.csproj|solutionrelative:user-crud-asp.net\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1B49B6-A90A-442C-A5C6-41943D500B18}|user-crud-asp.net\\user-crud-asp.net.csproj|c:\\users\\deivy\\onedrive\\documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF1B49B6-A90A-442C-A5C6-41943D500B18}|user-crud-asp.net\\user-crud-asp.net.csproj|solutionrelative:user-crud-asp.net\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1B49B6-A90A-442C-A5C6-41943D500B18}|user-crud-asp.net\\user-crud-asp.net.csproj|c:\\users\\deivy\\onedrive\\documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1B49B6-A90A-442C-A5C6-41943D500B18}|user-crud-asp.net\\user-crud-asp.net.csproj|solutionrelative:user-crud-asp.net\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1B49B6-A90A-442C-A5C6-41943D500B18}|user-crud-asp.net\\user-crud-asp.net.csproj|c:\\users\\deivy\\onedrive\\documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF1B49B6-A90A-442C-A5C6-41943D500B18}|user-crud-asp.net\\user-crud-asp.net.csproj|solutionrelative:user-crud-asp.net\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1B49B6-A90A-442C-A5C6-41943D500B18}|user-crud-asp.net\\user-crud-asp.net.csproj|c:\\users\\deivy\\onedrive\\documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1B49B6-A90A-442C-A5C6-41943D500B18}|user-crud-asp.net\\user-crud-asp.net.csproj|solutionrelative:user-crud-asp.net\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1B49B6-A90A-442C-A5C6-41943D500B18}|user-crud-asp.net\\user-crud-asp.net.csproj|c:\\users\\deivy\\onedrive\\documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF1B49B6-A90A-442C-A5C6-41943D500B18}|user-crud-asp.net\\user-crud-asp.net.csproj|solutionrelative:user-crud-asp.net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1B49B6-A90A-442C-A5C6-41943D500B18}|user-crud-asp.net\\user-crud-asp.net.csproj|c:\\users\\deivy\\onedrive\\documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AF1B49B6-A90A-442C-A5C6-41943D500B18}|user-crud-asp.net\\user-crud-asp.net.csproj|solutionrelative:user-crud-asp.net\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +42,118 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "user-crud-asp.net\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "user-crud-asp.net\\Views\\User\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T00:05:30.282Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\Program.cs",
-              "RelativeDocumentMoniker": "user-crud-asp.net\\Program.cs",
-              "ToolTip": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\Program.cs",
-              "RelativeToolTip": "user-crud-asp.net\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "user-crud-asp.net\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "user-crud-asp.net\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T23:47:57.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "user-crud-asp.net\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "user-crud-asp.net\\Views\\User\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T23:17:05.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\Models\\User.cs",
+              "RelativeDocumentMoniker": "user-crud-asp.net\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\Models\\User.cs",
+              "RelativeToolTip": "user-crud-asp.net\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T19:35:42.748Z",
+              "WhenOpened": "2024-03-27T23:16:52.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "user-crud-asp.net\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "user-crud-asp.net\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T22:34:22.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "user-crud-asp.net\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "user-crud-asp.net\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T22:31:13.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "user-crud-asp.net\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "user-crud-asp.net\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-27T22:43:09.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "user-crud-asp.net\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\deivy\\OneDrive\\Documentos\\c#-projects\\user-crud-asp.net\\user-crud-asp.net\\Controllers\\UserController.cs",
+              "RelativeToolTip": "user-crud-asp.net\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAwDgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:16:15.172Z",
               "EditorCaption": ""
             }
           ]

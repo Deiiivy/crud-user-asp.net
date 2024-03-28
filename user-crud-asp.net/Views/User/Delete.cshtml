@@ -1,0 +1,10 @@
+﻿@model user_crud_asp.net.Models.User;
+
+
+<h1>Delete Task</h1>
+
+
+<form asp-controller="User" asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+</form>
